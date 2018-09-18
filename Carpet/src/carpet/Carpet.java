@@ -18,11 +18,11 @@ public class Carpet {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        double l = 8.5;
-        double w = 6;
-        double p = 19.95;
-        double t = (l*w)*19.95;
-        System.out.println("The price of the carpet will be $" + t);
+        double length = 8.5;
+        double width = 6;
+        double price = 19.95;
+        double total = (length*width)*19.95;
+        System.out.println("The price of the carpet will be $" + total);
     }
     
 }
