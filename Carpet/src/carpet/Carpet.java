@@ -1,7 +1,8 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * Peter Horne-Deus
+ * Carpet.java
+ * This program calculates the cost of a carpet with a length of 8.5m and 6m at a cost of $19.95 per square meter
+ * September 18, 2018
  */
 
 package carpet;
